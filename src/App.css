@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+ul li{
+    list-style: none;
+}
+div{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px 40px;
+  
+}
+.login{
+    height: 70%;
+    width: 60%;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #ffd1d1;  
+}
+input{
+    width: 60%;
+    height: 20px;
+}
+.submitbtn{
+    justify-content: end;
+    width: 50%;
+    border-radius: 10px 40px;
+    background-color: rgb(108, 192, 240);
+    color: lightcyan;
+}
