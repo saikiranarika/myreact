@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <Contact/>
-      {/* <Row>
+       <Row>
          <Col sm={2}>
             <Sidenav/>
          </Col>
@@ -13,7 +13,7 @@ function App() {
          <Col sm={10}>
             <Header/>
          </Col>
-      </Row> */}
+      </Row> 
     </div>
   )
 }
