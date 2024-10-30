@@ -1,0 +1,74 @@
+.container {
+  background-color: #f9bbbb;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px;
+  width: 350px;
+  text-align: center;
+}
+/* Header css */
+.sidenav ul {
+  height: 100vh;
+  list-style-type: none;
+  text-decoration: none;
+}
+.sidenav{
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+}
+
+.main{
+  background-color: antiquewhite;
+  padding: 5%;
+  display: flex;
+  
+
+}
+.products{
+  border: 2px solid ;
+
+}
+.products img{
+  height: 300px;
+}
+.maindata{
+  background-color: aqua;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  justify-content:space-around;
+}
+.dataproducts{
+  border: 2px solid ;
+  padding: 1%;
+
+}
+.dataproducts img{
+  height: 200px;
+
+}
+/* login section */
+.login{
+  height: 100vh;
+  list-style-type: none;
+  text-decoration: none;
+  justify-items: center;
+  
+}
+form{
+  height: auto;
+  border: 2px solid;
+  padding: 1%;
+  margin: 2%;
+  border-radius: 10px 20px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: rgb(14, 11, 11);
+  color: lightcyan;
+}
+.logo{
+  color: aqua;
+  text-shadow: 0px 5px 10px 50px;
+}
